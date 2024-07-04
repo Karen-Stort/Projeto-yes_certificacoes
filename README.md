@@ -1,5 +1,5 @@
 # React + Vite
-Projeto dedicado a um contato empresarial como teste para avaliar o conhecimento em javascript e reat. 
+Projeto dedicado a um contato empresarial como teste para avaliar o conhecimento em javascript e react. 
 
 
 
