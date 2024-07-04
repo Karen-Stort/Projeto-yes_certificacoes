@@ -1,4 +1,4 @@
-# React + Vite
+# Yes_Certificações - Teste / Avaliação
 Projeto dedicado a um contato empresarial como teste para avaliar o conhecimento em javascript e react. 
 
 
